@@ -1,27 +1,44 @@
+# Hi there, I'm Arman Ahmed 👋
 
-<h1 align="center">Hi 👋, I'm Arman Ahmed</h1>
-<h3 align="center">An aspiring data scientist from India</h3>
+## About Me
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I am a final year B.Tech student in Computer Science and Engineering (CSE) at Vel Tech University. I am passionate about data science, machine learning, and all things data-related. Currently, I am preparing for placements to secure a job in the data field.
 
+- 🎓 Studying at Vel Tech University
+- 🔭 Working on various data science projects
+- 🌱 Learning advanced machine learning techniques
+- 💬 Ask me about Python, Data Analysis, and Machine Learning
+- 📫 How to reach me: [your email](mailto:your-email@example.com)
+- ⚡ Fun fact: I love to solve puzzles and play chess in my free time
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanahmed00&label=Profile%20views&color=0e75b6&style=flat" alt="armanahmed00" /> </p>
+## Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armanahmed24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armanahmed24" height="30" width="40" /></a>
-<a href="https://kaggle.com/arman240102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arman240102" height="30" width="40" /></a>
-<a href="https://fb.com/arman ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arman ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/armanahmed54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armanahmed54" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arman_2401/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arman_2401/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/armanoffiskw0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/armanoffiskw0/" height="30" width="40" /></a>
-</p>
+- **Languages:** Python, C, C++, Java
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Jupyter Notebook, VS Code
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armanahmed00&show_icons=true&locale=en&layout=compact" alt="armanahmed00" /></p>
+### [Project Name 1](https://github.com/your-username/project-name-1)
+Brief description of the project, technologies used, and what you learned or achieved.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanahmed00&show_icons=true&locale=en" alt="armanahmed00" /></p>
+### [Project Name 2](https://github.com/your-username/project-name-2)
+Brief description of the project, technologies used, and what you learned or achieved.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanahmed00&" alt="armanahmed00" /></p>
+### [Project Name 3](https://github.com/your-username/project-name-3)
+Brief description of the project, technologies used, and what you learned or achieved.
+
+## GitHub Stats
+
+![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+
+<!-- Optionally, you can include an image or gif -->
+<img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="100%" height="auto"/>
