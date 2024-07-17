@@ -85,9 +85,8 @@ A brief description of the project, emphasizing model development and performanc
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armanahmed24/)
+[![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=Gmail&logoColor=white)](mailto:armanofficial2401@gmail.com)
 
 <!-- Optionally, you can include an image or gif -->
 <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="100%" height="auto"/>
