@@ -4,13 +4,13 @@
 
 ## 📊 About Me
 
-I'm a final year B.Tech student in Computer Science and Engineering (CSE) at Vel Tech University, with a strong passion for data analytics and machine learning. Currently, I am preparing for placements to secure a position in the data field.
+I'm a final year B.Tech student in Computer Science and Engineering (CSE), with a strong passion for data analytics and data science. Currently, I am preparing for placements to secure a position in the data field.
 
 - 🎓 **Education**: Pursuing B.Tech at Vel Tech University
 - 📈 **Aspiration**: Aspiring Data Analyst with hands-on project experience
 - 🌱 **Current Focus**: Exploring advanced machine learning techniques
 - 💬 **Topics of Interest**: Data science, analytics, and visualization
-- 📫 **Contact**: [your email](mailto:your-email@example.com)
+- 📫 **Contact**: [your email](mailto:armanofficial2401@gmail.com)
 - ⚡ **Fun Fact**: Enjoy solving puzzles and playing chess in my spare time
 
 ## 🛠️ Skills
@@ -19,8 +19,7 @@ I'm a final year B.Tech student in Computer Science and Engineering (CSE) at Vel
   <span style="font-weight: bold;">Languages:</span>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C Badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++ Badge" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/R-007396?style=flat&logo=r&logoColor=white" alt="R Badge" />
 </p>
 
 <p>
@@ -30,7 +29,11 @@ I'm a final year B.Tech student in Computer Science and Engineering (CSE) at Vel
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
   <img src="https://img.shields.io/badge/Seaborn-30B0C7?style=flat&logo=seaborn&logoColor=white" alt="Seaborn Badge" />
 </p>
-
+<p>
+  <span style="font-weight: bold;">Data Visulaisation:</span>
+  <img src="https://img.shields.io/badge/TABLEAU-4479A1?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge" />
+  <img src="https://img.shields.io/badge/EXCEl-4479A1?style=flat&logo=excel&logoColor=white" alt="Excel Badge" />
+</p>
 <p>
   <span style="font-weight: bold;">Machine Learning:</span>
   <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
@@ -41,14 +44,11 @@ I'm a final year B.Tech student in Computer Science and Engineering (CSE) at Vel
 <p>
   <span style="font-weight: bold;">Databases:</span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
 </p>
 
 <p>
   <span style="font-weight: bold;">Tools:</span>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
 </p>
 
 ---
