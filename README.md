@@ -21,18 +21,18 @@ I am a final year B.Tech student in Computer Science and Engineering (CSE) at Ve
 
 ## Projects
 
-### [Project Name 1](https://github.com/your-username/project-name-1)
+### [Project Name 1](https://github.com/ArmanAhmed00/project-name-1)
 Brief description of the project, technologies used, and what you learned or achieved.
 
-### [Project Name 2](https://github.com/your-username/project-name-2)
+### [Project Name 2](https://github.com/ArmanAhmed00/project-name-2)
 Brief description of the project, technologies used, and what you learned or achieved.
 
-### [Project Name 3](https://github.com/your-username/project-name-3)
+### [Project Name 3](https://github.com/ArmanAhmed00/project-name-3)
 Brief description of the project, technologies used, and what you learned or achieved.
 
 ## GitHub Stats
 
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?ArmanAhmed00=your-username&show_icons=true&theme=radical)
+![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmanAhmed00&show_icons=true&theme=radical)
 
 ## Connect with Me
 
