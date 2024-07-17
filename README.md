@@ -32,7 +32,7 @@ Brief description of the project, technologies used, and what you learned or ach
 
 ## GitHub Stats
 
-![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Arman's GitHub Stats](https://github-readme-stats.vercel.app/api?ArmanAhmed00=your-username&show_icons=true&theme=radical)
 
 ## Connect with Me
 
