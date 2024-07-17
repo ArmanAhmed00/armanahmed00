@@ -70,7 +70,7 @@ I'm a final year B.Tech student in Computer Science and Engineering (CSE), with 
 
 ---
 
-## 🎯 Projects
+<!---## 🎯 Projects
 
 ### [Data Analysis Project 1](https://github.com/ArmanAhmed00/project-name-1)
 A brief description of the project focusing on data insights and methodologies used.
@@ -81,7 +81,7 @@ A brief description of the project, highlighting visualization techniques and re
 ### [Machine Learning Project 3](https://github.com/ArmanAhmed00/project-name-3)
 A brief description of the project, emphasizing model development and performance metrics.
 
----
+--->
 
 ## 🌐 Connect with Me
 
