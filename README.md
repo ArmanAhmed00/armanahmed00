@@ -57,15 +57,15 @@ me = ArmanAhmed()
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<!---![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)-->
 
 ### 🗃️ Databases & Big Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<!---![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)-->
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+<!---![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)-->
 
 ## 📊 GitHub Analytics
 
@@ -98,11 +98,11 @@ me = ArmanAhmed()
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Completed Data Science certification from Coursera
-2. 🚀 Published new ML project on GitHub
-3. 📝 Wrote blog post about Neural Networks
-4. 🏆 Won hackathon for best AI solution
-5. 💻 Contributed to open-source project
+1. 🏅 Earned AWS Certified Cloud Practitioner certification
+2. 🏆 Won AlgoExpert competition at Technex (IIT BHU)
+3. 🎉 Completed Data Science certification from Coursera  
+4. 🚀 Published new ML project on GitHub
+5. 📝 Wrote blog post about Neural Networks
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
