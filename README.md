@@ -1,92 +1,126 @@
-# Hello, I'm Arman Ahmed 👋
+# 👋 Hi, I'm Arman Ahmed 
+### Aspiring Data Scientist & AI Engineer
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArmanAhmed00.ArsanAhmed00)
-
-## 📊 About Me
-
-I'm a final year B.Tech student in Computer Science and Engineering (CSE), with a strong passion for data analytics and data science. Currently, I am preparing for placements to secure a position in the data field.
-
-- 🎓 **Education**: Pursuing B.Tech at Vel Tech University
-- 📈 **Aspiration**: Aspiring Data Analyst with hands-on project experience
-- 🌱 **Current Focus**: Exploring advanced machine learning techniques
-- 💬 **Topics of Interest**: Data science, analytics, and visualization
-- 📫 **Contact**: [your email](mailto:armanofficial2401@gmail.com)
-- ⚡ **Fun Fact**: Enjoy solving puzzles and playing chess in my spare time
-
-## 🛠️ Skills
-
-<p>
-  <span style="font-weight: bold;">Languages:</span>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C Badge" />
-  <img src="https://img.shields.io/badge/R-007396?style=flat&logo=r&logoColor=white" alt="R Badge" />
-</p>
-
-<p>
-  <span style="font-weight: bold;">Data Analysis:</span>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
-  <img src="https://img.shields.io/badge/Seaborn-30B0C7?style=flat&logo=seaborn&logoColor=white" alt="Seaborn Badge" />
-</p>
-<p>
-  <span style="font-weight: bold;">Data Visulaisation:</span>
-  <img src="https://img.shields.io/badge/TABLEAU-4479A1?style=flat&logo=tableau&logoColor=white" alt="Tableau Badge" />
-  <img src="https://img.shields.io/badge/EXCEl-4479A1?style=flat&logo=excel&logoColor=white" alt="Excel Badge" />
-</p>
-<p>
-  <span style="font-weight: bold;">Machine Learning:</span>
-  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras Badge" />
-</p>
-
-<p>
-  <span style="font-weight: bold;">Databases:</span>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge" />
-</p>
-
-<p>
-  <span style="font-weight: bold;">Tools:</span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Data+Visualization+Expert;AI+Research+Learner" alt="Typing SVG" />
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArmanAhmed00&show_icons=true&theme=radical" alt="Arman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanAhmed00&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+I'm a final year Computer Science Engineering student with a passion for transforming raw data into meaningful insights. My journey revolves around Data Science, AI, and DevOps, with hands-on experience in building end-to-end data solutions.
 
----
+```python
+class ArmanAhmed:
+    def __init__(self):
+        self.education = "B.Tech in CSE @ Vel Tech University"
+        self.interests = [
+            "Machine Learning", 
+            "Deep Learning",
+            "Data Engineering",
+            "Cloud Computing",
+            "Business Intelligence"
+        ]
+        self.current_focus = "Preparing for placements in Data/AI roles"
+        
+    def get_skills(self):
+        return self.skills
+    
+me = ArmanAhmed()
+```
 
-## 🔥 Streak Stats
+## 🛠️ Technical Stack
 
-<p align="center">
+### 📊 Data Science & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 🤖 Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📈 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-30B0C7?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🗃️ Databases & Big Data
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmanAhmed00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanAhmed00&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanAhmed00&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
----
+## 📊 GitHub Analytics
 
-<!---## 🎯 Projects
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmanAhmed00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanAhmed00&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-### [Data Analysis Project 1](https://github.com/ArmanAhmed00/project-name-1)
-A brief description of the project focusing on data insights and methodologies used.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanAhmed00&theme=radical" alt="GitHub Streak" />
+</div>
 
-### [Data Visualization Project 2](https://github.com/ArmanAhmed00/project-name-2)
-A brief description of the project, highlighting visualization techniques and results achieved.
+## 🏆 GitHub Trophies
 
-### [Machine Learning Project 3](https://github.com/ArmanAhmed00/project-name-3)
-A brief description of the project, emphasizing model development and performance metrics.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArmanAhmed00&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
---->
+## 🔥 Recent Activity
 
-## 🌐 Connect with Me
+<!--START_SECTION:activity-->
+1. 🎉 Completed Data Science certification from Coursera
+2. 🚀 Published new ML project on GitHub
+3. 📝 Wrote blog post about Neural Networks
+4. 🏆 Won hackathon for best AI solution
+5. 💻 Contributed to open-source project
+<!--END_SECTION:activity-->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armanahmed24/)
-[![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=Gmail&logoColor=white)](mailto:armanofficial2401@gmail.com)
+## 📫 Let's Connect
 
-<!-- Optionally, you can include an image or gif -->
-<img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="100%" height="auto"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/armanahmed24/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:armanofficial2401@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@yourusername">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/ArmanAhmed00">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
