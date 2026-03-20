@@ -17,7 +17,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```python
 from dataclasses import dataclass, field
