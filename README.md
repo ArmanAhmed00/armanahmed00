@@ -18,22 +18,9 @@
 
 ## About
 
-AI & ML Engineer with a focus on building and deploying intelligent systems that work in production — not just in notebooks. Currently pursuing an MSc in Artificial Intelligence Systems at **EPITA, School of Engineering and Computer Science**.
+MSc Artificial Intelligence Systems student at **EPITA, Paris** — building at the intersection of machine learning, deep learning, and generative AI. I focus on turning real data into working models and meaningful insights, from exploratory analysis through to deployment.
 
-My work sits at the intersection of research and engineering: translating advances in LLMs, retrieval systems, and deep learning into reliable, scalable applications. I care about the full lifecycle — from model selection and fine-tuning through to serving, monitoring, and iteration.
-
-**Current focus**
-
-- Building and experimenting with LLM-based applications — RAG pipelines, agents, and prompt engineering
-- Applying deep learning (CNNs, RNNs, Transformers) to real classification, generation, and NLP problems
-- End-to-end data science workflows: EDA, feature engineering, model training, and evaluation
-- Data storytelling and BI reporting with Tableau and Power BI
-
-**Learning & exploring**
-
-- Transformer architectures and efficient fine-tuning methods (LoRA, QLoRA, PEFT)
-- Multimodal models and vision-language systems
-- Agentic AI — tool use, planning, and multi-step reasoning
+Currently exploring LLM-based applications, efficient fine-tuning, and agentic systems.
 
 ---
 
@@ -85,15 +72,11 @@ My work sits at the intersection of research and engineering: translating advanc
 
 ## Recent Work
 
-**LLM Fine-tuning** — Experimenting with parameter-efficient fine-tuning (LoRA/QLoRA) on domain-specific datasets using Hugging Face Transformers and PEFT.
+**[BST-Backed Hyperparameter Optimiser with Transfer Analysis](https://github.com/ArmanAhmed00/BST-Backed-Hyperparameter-Optimiser-with-Transfer-Analysis)** — A custom hyperparameter search engine using Binary Search Tree structures, combined with transfer learning analysis. Explores how knowledge from pre-trained models transfers across domains under different hyperparameter configurations.
 
-**RAG Application** — Built a Retrieval-Augmented Generation pipeline using LangChain, OpenAI API, and FAISS for semantic document search and question answering.
+**[Credit Risk Scorer](https://github.com/ArmanAhmed00/Credit_risk_scorer)** — End-to-end binary classification pipeline predicting loan default risk on real financial data. Covers the full ML lifecycle: EDA, preprocessing, feature engineering, model comparison, evaluation, and API serving.
 
-**ML Projects** — End-to-end supervised and unsupervised learning pipelines covering classification, regression, clustering, and anomaly detection with scikit-learn.
-
-**Data Analysis & Visualisation** — Exploratory data analysis, feature engineering, and dashboard reporting using Pandas, Matplotlib, Seaborn, Tableau, and Power BI.
-
-**Deep Learning** — Implemented CNNs, RNNs, and transformer-based architectures for image classification and NLP tasks using TensorFlow/Keras and PyTorch.
+**[DSP — Arman Ahmed](https://github.com/ArmanAhmed00/dsp-arman-ahmed)** — Data Science and Python project covering core DS workflows, statistical analysis, and applied problem-solving.
 
 ---
 
