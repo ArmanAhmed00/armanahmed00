@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning+Engineer;LLM+Fine-tuning+%7C+RAG+Pipelines+%7C+MLOps;MSc+Artificial+Intelligence+Systems+%40+EPITA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=620&lines=AI+%26+ML+Engineer;Python+%7C+Deep+Learning+%7C+Generative+AI;Data+Science+%7C+SQL+%7C+Tableau+%7C+Power+BI;MSc+Artificial+Intelligence+Systems+%40+EPITA" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armanahmed24/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:armanofficial2401@gmail.com)
@@ -24,85 +24,76 @@ My work sits at the intersection of research and engineering: translating advanc
 
 **Current focus**
 
-- Parameter-efficient fine-tuning of large language models (LoRA / QLoRA) on domain-specific corpora
-- Designing production-grade RAG pipelines with robust retrieval, reranking, and evaluation
-- End-to-end MLOps: experiment tracking, data versioning, CI/CD for ML, and model serving at scale
-- Reinforcement Learning from Human Feedback (RLHF) and alignment techniques
+- Building and experimenting with LLM-based applications — RAG pipelines, agents, and prompt engineering
+- Applying deep learning (CNNs, RNNs, Transformers) to real classification, generation, and NLP problems
+- End-to-end data science workflows: EDA, feature engineering, model training, and evaluation
+- Data storytelling and BI reporting with Tableau and Power BI
 
-**Research interests**
+**Learning & exploring**
 
-- Foundation models and efficient inference (sparse attention, MoE, speculative decoding)
-- Multimodal and vision-language architectures
-- Agentic systems — tool use, planning, and multi-agent coordination
+- Transformer architectures and efficient fine-tuning methods (LoRA, QLoRA, PEFT)
+- Multimodal models and vision-language systems
+- Agentic AI — tool use, planning, and multi-step reasoning
 
 ---
 
 ## Technical Stack
 
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-555555?style=flat-square)
+
+### Machine Learning & Deep Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-A8B0D3?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Generative AI & LLMs
 ![Hugging Face](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B3FA0?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
-### MLOps & Deployment
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### Cloud Platforms
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-
-### Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Business Intelligence & Visualisation
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
 ## Project Domains
 
-| NLP & LLMs | Computer Vision | Predictive ML |
+| NLP & LLMs | Data Science & Analytics | Machine Learning |
 |---|---|---|
-| RAG Pipelines | Object Detection | Time-Series Forecasting |
-| Text Generation & Summarization | Image Segmentation | Anomaly Detection |
-| Conversational Agents | Facial Recognition | Recommendation Systems |
-| Document AI | OCR & DocAI | Tabular ML |
+| RAG Pipelines | Exploratory Data Analysis | Classification & Regression |
+| Text Generation & Summarization | Dashboard Reporting | Anomaly Detection |
+| Conversational Agents | Data Cleaning & Wrangling | Recommendation Systems |
+| Prompt Engineering | Statistical Analysis | Tabular ML |
 
-**Generative AI:** Stable Diffusion · LoRA Fine-tuning · GANs  
-**Agentic Systems:** LangGraph · AutoGen · Tool Use · Multi-agent Orchestration
+**Generative AI:** LLM fine-tuning · RAG · Prompt engineering · Agents  
+**Visualisation:** Tableau · Power BI · Plotly · Matplotlib · Seaborn
 
 ---
 
 ## Recent Work
 
-**LLM Fine-tuning** — Parameter-efficient fine-tuning using LoRA/QLoRA on domain-specific datasets, optimising for both accuracy and inference latency.
+**LLM Fine-tuning** — Experimenting with parameter-efficient fine-tuning (LoRA/QLoRA) on domain-specific datasets using Hugging Face Transformers and PEFT.
 
-**RAG Pipeline** — Designed and shipped a production-grade Retrieval-Augmented Generation system with FAISS vector search and LangChain orchestration.
+**RAG Application** — Built a Retrieval-Augmented Generation pipeline using LangChain, OpenAI API, and FAISS for semantic document search and question answering.
 
-**Experiment Tracking** — End-to-end ML lifecycle management with MLflow and Weights & Biases, covering data versioning (DVC) through model registry.
+**ML Projects** — End-to-end supervised and unsupervised learning pipelines covering classification, regression, clustering, and anomaly detection with scikit-learn.
 
-**Model Serving** — Deployed low-latency inference APIs using FastAPI, containerised with Docker, and hosted on AWS SageMaker.
+**Data Analysis & Visualisation** — Exploratory data analysis, feature engineering, and dashboard reporting using Pandas, Matplotlib, Seaborn, Tableau, and Power BI.
 
-**Research** — Active study of transformer efficiency: sparse attention, mixture-of-experts, and speculative decoding.
+**Deep Learning** — Implemented CNNs, RNNs, and transformer-based architectures for image classification and NLP tasks using TensorFlow/Keras and PyTorch.
 
 ---
 
