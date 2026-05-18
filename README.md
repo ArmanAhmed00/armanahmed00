@@ -84,12 +84,11 @@ Currently exploring LLM-based applications, efficient fine-tuning, and agentic s
 
 | Status | Credential |
 |---|---|
-| ✅ | AWS Certified Cloud Practitioner |
-| ✅ | Deep Learning Specialization — deeplearning.ai |
 | ✅ | Data Science Professional — Coursera |
 | ✅ | AlgoExpert Champion — Technex @ IIT BHU |
+| ✅ | Machine Learning & Data Science — GeeksforGeeks |
+| ✅ | Claude AI — Anthropic |
 | 🔄 | AWS ML Specialty *(in progress)* |
-| 🔄 | Google Professional ML Engineer *(in progress)* |
 
 ---
 
