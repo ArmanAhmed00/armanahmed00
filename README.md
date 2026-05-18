@@ -18,30 +18,22 @@
 
 ## About
 
-```python
-from dataclasses import dataclass, field
-from typing import List
+AI & ML Engineer with a focus on building and deploying intelligent systems that work in production — not just in notebooks. Currently pursuing an MSc in Artificial Intelligence Systems at **EPITA, School of Engineering and Computer Science**.
 
-@dataclass
-class ArmanAhmed:
-    role: str = "AI & ML Engineer"
-    education: str = "MSc Artificial Intelligence Systems — EPITA, School of Engineering and Computer Science"
-    location: str = "India 🇮🇳"
+My work sits at the intersection of research and engineering: translating advances in LLMs, retrieval systems, and deep learning into reliable, scalable applications. I care about the full lifecycle — from model selection and fine-tuning through to serving, monitoring, and iteration.
 
-    focus_areas: List[str] = field(default_factory=lambda: [
-        "Fine-tuning Large Language Models (LoRA / QLoRA)",
-        "Production-grade RAG pipeline design",
-        "End-to-end MLOps & model deployment at scale",
-        "Reinforcement Learning from Human Feedback (RLHF)",
-    ])
+**Current focus**
 
-    research_interests: List[str] = field(default_factory=lambda: [
-        "Generative AI & Foundation Models",
-        "Computer Vision & Multimodal Learning",
-        "Efficient Neural Architecture Search",
-        "Agentic AI Systems (LangGraph, AutoGen)",
-    ])
-```
+- Parameter-efficient fine-tuning of large language models (LoRA / QLoRA) on domain-specific corpora
+- Designing production-grade RAG pipelines with robust retrieval, reranking, and evaluation
+- End-to-end MLOps: experiment tracking, data versioning, CI/CD for ML, and model serving at scale
+- Reinforcement Learning from Human Feedback (RLHF) and alignment techniques
+
+**Research interests**
+
+- Foundation models and efficient inference (sparse attention, MoE, speculative decoding)
+- Multimodal and vision-language architectures
+- Agentic systems — tool use, planning, and multi-agent coordination
 
 ---
 
