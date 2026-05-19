@@ -85,15 +85,7 @@ arman = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmanAhmed00&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=30363d"/>
 </div>
 
----
 
-### 🏅 Certifications
-
-- Data Science Professional — **Coursera**
-- Machine Learning & Data Science — **GeeksforGeeks**
-- Claude AI — **Anthropic**
-- AlgoExpert Champion — **Technex @ IIT BHU**
-- AWS ML Specialty *(in progress)*
 
 ---
 
