@@ -57,13 +57,31 @@ read — each one stands up from a clean clone.
 
 ---
 
-## Background
+## Education
 
-- **MSc Artificial Intelligence Systems** — EPITA, Paris · 2026–2027
-  Data Science in Production · Big Data Infrastructure & Cloud · Neural Networks & Deep Learning · NLP · Spark · NoSQL · Time Series · Reinforcement Learning
-- **B.Tech Computer Science & Engineering** — Vel Tech R&D Institute, Chennai · 2021–2025
-- **Data Science Intern** — Personifwy, in collaboration with CELL, IIT Guwahati · Bengaluru, Dec 2024 – May 2025
-- **3rd place**, AlgoZen competitive programming — Technex'25, IIT (BHU) Varanasi
+**MSc Artificial Intelligence Systems** · EPITA, Paris · 2026–2027  
+Data Science in Production · Big Data Infrastructure & Cloud · Neural Networks & Deep Learning · NLP · Spark · NoSQL · Time Series Analysis · Reinforcement Learning
+
+**B.Tech Computer Science & Engineering** · Vel Tech R&D Institute of Science and Technology, Chennai · 2021–2025
+
+*Languages: English (C1) · Hindi (native) · Urdu (native) · French (A2, in progress)*
+
+---
+
+## Experience
+
+**Data Science Intern** · Personifwy, in collaboration with CELL, IIT Guwahati  
+Bengaluru, India · December 2024 – May 2025
+
+- Delivered three end-to-end machine learning projects across a five-month industrial programme: hate speech detection, SMS spam classification and credit risk analysis.
+- Built NLP text-classification pipelines in Python — tokenisation, vectorisation, model selection, evaluation — on datasets cleaned for missing values, class imbalance and feature encoding.
+
+---
+
+## Achievements
+
+- **3rd place, AlgoZen competitive programming** — Technex'25, IIT (BHU) Varanasi · March 2025
+- **Complete Machine Learning & Data Science Program**, 26 weeks — GeeksforGeeks · 2024
 
 ---
 
